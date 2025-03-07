@@ -1,5 +1,7 @@
 # Incident Rescuer
 
+[Slackアプリ](https://api.slack.com/apps/A08GGPWEVCH)
+
 ## 障害対応情報の追加方法
 
 Incident Rescuerは、`src/error_responses.yaml`ファイルに障害内容と対応を記述することで、Slackに適切な対応を自動で返信する機能を提供します。
